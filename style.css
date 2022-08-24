@@ -1,0 +1,38 @@
+.container {
+    width: 100%;
+}
+
+ul{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+li{
+    margin-bottom: 10px;
+}
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  h1{
+  margin: 1em 0 0.5em 0;
+  color: #343434;
+  font-weight: normal;
+  font-family: 'Ultra', sans-serif;   
+  font-size: 36px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-shadow: 0 2px white, 0 3px #777;
+  text-align: center;
+}
+
+.paragraph-styling {
+    cursor: pointer;
+}
+
+.to-dos {
+    margin-top: 25px;
+}
+#todoicon{
+    width: 70px;
+    height: 60px;
+}
